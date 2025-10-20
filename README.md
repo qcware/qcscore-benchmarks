@@ -8,10 +8,12 @@ This repository contains data and scripts for testing and benchmarking Promethiu
 Please see the [data](data) directory for datasets and associated licenses. 
 
 
-## Coming Soon
+## Python Examples
 
-This repository will contain examples of how to run quantum chemical scoring calculations using the Promethium
-Application Programming Interface (API) and the Promethium Python Software Development Kit (SDK).
+For examples of how to run quantum chemical scoring calculations using the Promethium
+Application Programming Interface (API) and the Promethium Python Software Development Kit (SDK),
+please refer to the [qcscore](https://github.com/qcware/promethium-examples/tree/main/examples/qcscore)
+directory in [promethium-examples](https://github.com/qcware/promethium-examples/) repository.
 
 ## License
 
